@@ -5241,7 +5241,7 @@ name = "namada_apps_lib"
 version = "0.47.0"
 dependencies = [
  "async-trait",
- "base64 0.13.1",
+ "base64 0.22.1",
  "bit-set",
  "borsh",
  "cargo_metadata 0.19.1",
@@ -5656,7 +5656,7 @@ version = "0.47.0"
 dependencies = [
  "assert_matches",
  "async-trait",
- "base64 0.13.1",
+ "base64 0.22.1",
  "blake2b-rs",
  "borsh",
  "byte-unit",
@@ -5979,7 +5979,7 @@ version = "0.47.0"
 dependencies = [
  "assert_cmd",
  "assert_matches",
- "base64 0.13.1",
+ "base64 0.22.1",
  "borsh",
  "color-eyre",
  "concat-idents",
